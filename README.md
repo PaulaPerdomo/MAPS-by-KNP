@@ -3,7 +3,7 @@
 <br>MAPS by KNP is Geographic Information Mapping software using OpenStreetMap open source code database API (OSM data), C++ programming language, GTK glade, and EZGL Graphics Library. </br>
 
 ![](images/firstphoto.png)
-<br><b>Developers:</b> Kevin Zeng, Nicholas Short and Paula Perdomo (hence KNP).</br>
+<br><b>Developers:</b> Kevin Zeng, Nicholas Short (https://github.com/nicholasshort) and Paula Perdomo (hence KNP).</br>
 <b>ECE297 Software, Communication & Design Final Course Project - 2021 Academic Year.</b>
 
 <br>Source code CANNOT be provided as this is the final project of the University of Toronto's ECE297 course. </br>
