@@ -11,5 +11,7 @@ For questions or insights on MAPS by KNP, please contact me.
 
 # Design Acheievements 
 
+MAPS by KNP has the following features, enabling the user ease in navigation. 
+![](images/design_achievements.png) 
 
-
+# Functionalities 
