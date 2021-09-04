@@ -38,5 +38,4 @@ F. Fui-Hoon Nah, “A study on tolerable waiting time: how long are Web users wi
 
 # Oral Presentation - Final Presentation:
 For more information about our GIS software, check out more about MAPS by KNP through our final presentation!
-
 https://docs.google.com/presentation/d/18_aK41gAW0pERDQKpa9igWFF9OfV9JMR3r9J-_KwMtU/edit#slide=id.p
